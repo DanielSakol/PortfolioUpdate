@@ -83,12 +83,6 @@
 .height-100 .slider-content {
 	padding-top: 100px;
 }
-.service-wrapper {
-	padding: 50px 20px;
-}
-.service-wrapper h2 {
-	font-size: 20px;
-}
 .cta-img img {
 	width: 100%;
 }
@@ -114,10 +108,6 @@
 .testimonial-3 {
 	padding: 20px 15px;
 }
-.blog-space{padding-right: 15px}
-.why-chose {
-	padding: 0;
-}
 .update-cart > a {
 	margin-left: 0;
 	padding: 14px 16px;
@@ -128,13 +118,6 @@
 }
 .contact-meta {
 	margin-bottom: 30px;
-}
-.service-box {
-	padding: 20px;
-	text-align: center;
-}
-.service-box.service-3 {
-	text-align: left;
 }
 .main-menu ul li ul.submenu {
 	left: -77px;
@@ -193,9 +176,6 @@ span.sepa {
 .single-couter > p {
 	font-size: 15px;
 }
-.service-wrapper h2 {
-	font-size: 20px;
-}
 .wrapper-box {
   padding: 0 20px;
 }
@@ -252,19 +232,12 @@ span.sepa {
 .post-comments-form {
 	margin-bottom: 50px;
 }
-.blog-space{padding-right: 15px}
-.job-list {
-	margin-bottom: 30px;
-}
 .update-cart > a {
 	margin-left: 0;
 	margin-right: 10px;
 }
 .update-cart {
 	margin-top: 20px;
-}
-.service-box.service-3 {
-	text-align: left;
 }
 .header-top-area {
 	padding-left: 30px;
@@ -283,9 +256,6 @@ span.sepa {
 }
 .copyright-text {
 	margin-bottom: 7px;
-}
-.blog-post-items {
-	margin-bottom: 50px;
 }
 .page-title h1 {
 	font-size: 50px;
@@ -415,15 +385,8 @@ span.sepa {
 .page-title-area {
 	padding: 100px 0;
 }
-.blog-post .blog-item-content h3 a {
-	font-size: 23px;
-	line-height: 1.2;
-}
 .blockquote {
 	margin-left: 0;
-}
-.blog-share-icon {
-	margin-top: 20px;
 }
 .comments-text {
 	padding-left: 0;
@@ -438,10 +401,6 @@ span.sepa {
 .post-comments-form {
 	padding-right: 0;
 	margin-bottom: 50px;
-}
-.blog-space{padding-right: 15px}
-.why-chose {
-	padding: 0;
 }
 .job-list {
 	margin-bottom: 30px;
@@ -556,9 +515,6 @@ span.sepa {
 .history-thumb img {
 	width: 100%;
 }
-.blog-post-items {
-	margin-bottom: 50px;
-}
 .page-title h1 {
 	font-size: 32px;
 }
@@ -593,9 +549,6 @@ span.sepa {
 .pagination ul > li {
 	margin-bottom: 5px;
 }
-.blog-post-tag > a {
-	margin-bottom: 5px;
-}
 .expert-list li {
 	width: 100%;
 }
@@ -610,9 +563,6 @@ span.sepa {
 }
 .box-70 {
 	margin: 0 30px;
-}
-.blog-title {
-	font-size: 24px;
 }
 
 }
